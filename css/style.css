@@ -1,0 +1,32 @@
+.title {
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.title span {
+    color: #43A04D;
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.main img {
+    max-width: 600px;
+}
+
+.main-info {
+    max-width: 500px;
+}
+
+.main-info ul {
+    padding-left: 17px;
+}
+
+.main-info a {
+    font-size: 20px;
+    color: #43A04D;
+}
